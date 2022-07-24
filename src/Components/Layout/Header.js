@@ -1,7 +1,7 @@
 import React from "react";
 import mealimage from "../../assets/meals.jpg";
 import Headermodule from "./Header.module.css";
-import HeaderCartButton from "./HeaderCart";
+import HeaderCartButton from "./HeaderCartButton";
 const Header = (props) => {
   return (
     <React.Fragment>
