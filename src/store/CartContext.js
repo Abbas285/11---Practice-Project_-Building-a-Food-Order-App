@@ -4,6 +4,7 @@ const CartConext = createContext({
   totalAmount: 0,
   additem: (item) => {},
   removeitem: (id) => {},
+  resetstore: () => {},
 });
 
 export default CartConext;
